@@ -2,6 +2,8 @@
 
 BD4SUR的抽奖活动第二弹！报名参与抽奖活动之前，请务必通读本文。
 
+![ ](girl-holding-tesla.png)
+
 ## 0. 抽奖者名单与开奖结果公示
 
 |编号|GitHub ID|报名Issue|是否中奖|
