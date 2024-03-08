@@ -6,6 +6,8 @@ BD4SUR的抽奖活动第二弹！报名参与抽奖活动之前，请务必通�
 
 ## 0. 抽奖者名单与开奖结果公示
 
+抽奖名单尚未锁定，现在可以报名。抽奖名单锁定日期、开奖日期将**提前至少3天**在此处公布，建议点击“watch”按钮，订阅本仓库的变化。
+
 |编号|GitHub ID|报名Issue|是否中奖|
 |---|---------|---------|-------|
 |空|         |         |       |
@@ -18,7 +20,7 @@ BD4SUR的抽奖活动第二弹！报名参与抽奖活动之前，请务必通�
 
 **1.2 奖品**
 
-奖品是一块 Nvidia Tesla P40 (22.5GiB) 计算卡，不含任何配件。这块卡由PNY代工，显存较公版卡（24GiB）略小，但核心相同。[点击此处查看Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/documents/nvidia-p40-datasheet.pdf)。P40是2016年上市的高端数据中心计算卡，性能约等于同时代的消费级显卡 GeForce GTX 1080 Ti，2024年3月市场价约700~900元。其优势是显存较大，且性能和价格较为适中，是入门AI大模型的不错的选择。
+奖品是一块 Nvidia Tesla P40 (24GiB) 计算卡，不含任何配件。[点击此处查看Datasheet](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/documents/nvidia-p40-datasheet.pdf)。P40是2016年上市的高端数据中心计算卡，性能约等于同时代的消费级显卡 GeForce GTX 1080 Ti，2024年3月市场价约700~900元。其优势是显存较大，且性能和价格较为适中，是入门AI大模型的不错的选择。作为数据中心计算卡，P40支持ECC，如果开启ECC，则可用显存为22.5GiB，并且运算性能会有6%左右的下降（使用[gpu-burn](https://github.com/wilicc/gpu-burn)实测得知）。
 
 ## 2. 报名
 
@@ -43,7 +45,7 @@ BD4SUR的抽奖活动第二弹！报名参与抽奖活动之前，请务必通�
 
 **3.2 开奖时间**
 
-暂未确定。请获得抽奖资格的同好关注本仓库的更新。
+目前暂未确定。抽奖名单锁定日期、开奖日期将**提前至少3天**在此处公布，建议点击“watch”按钮，订阅本仓库的变化。
 
 **3.3 开奖办法**
 
