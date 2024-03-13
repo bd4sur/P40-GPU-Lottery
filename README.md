@@ -6,11 +6,37 @@ BD4SUR的抽奖活动第二弹！报名参与抽奖活动之前，请务必通�
 
 ## 0. 抽奖者名单与开奖结果公示
 
-**2024年3月13日（星期三）24点锁定抽奖名单，在此之前可以报名。2024年3月15日（星期五）开奖。**
+**抽奖名单已锁定，不再接受报名。2024年3月15日（星期五）开奖。**
+
+获得抽奖资格人数为：25人。
 
 |编号|GitHub ID|报名Issue|是否中奖|
 |---|---------|---------|-------|
-|空|         |         |       |
+|0|[jinyouzhi](https://github.com/jinyouzhi)|[#1](https://github.com/bd4sur/P40-GPU-Lottery/issues/1)|-|
+|1|[svatyvabin](https://github.com/svatyvabin)|[#2](https://github.com/bd4sur/P40-GPU-Lottery/issues/2)|-|
+|2|[zbuibe](https://github.com/zbuibe)|[#3](https://github.com/bd4sur/P40-GPU-Lottery/issues/3)|-|
+|3|[celeron533](https://github.com/celeron533)|[#4](https://github.com/bd4sur/P40-GPU-Lottery/issues/4)|-|
+|4|[ideniece](https://github.com/ideniece)|[#5](https://github.com/bd4sur/P40-GPU-Lottery/issues/5)|-|
+|5|[llw9830](https://github.com/llw9830)|[#6](https://github.com/bd4sur/P40-GPU-Lottery/issues/6)|-|
+|6|[wonsage](https://github.com/wonsage)|[#7](https://github.com/bd4sur/P40-GPU-Lottery/issues/7)|-|
+|7|[LiDaiyan](https://github.com/LiDaiyan)|[#8](https://github.com/bd4sur/P40-GPU-Lottery/issues/8)|-|
+|8|[Argon-Pub](https://github.com/Argon-Pub)|[#10](https://github.com/bd4sur/P40-GPU-Lottery/issues/10)|-|
+|9|[booksword](https://github.com/booksword)|[#11](https://github.com/bd4sur/P40-GPU-Lottery/issues/11)|-|
+|10|[yana9i](https://github.com/yana9i)|[#12](https://github.com/bd4sur/P40-GPU-Lottery/issues/12)|-|
+|11|[Eminlin](https://github.com/Eminlin)|[#13](https://github.com/bd4sur/P40-GPU-Lottery/issues/13)|-|
+|12|[Cache-Cloud](https://github.com/Cache-Cloud)|[#14](https://github.com/bd4sur/P40-GPU-Lottery/issues/14)|-|
+|13|[deathxlent](https://github.com/deathxlent)|[#15](https://github.com/bd4sur/P40-GPU-Lottery/issues/15)|-|
+|14|[AcidProton](https://github.com/AcidProton)|[#16](https://github.com/bd4sur/P40-GPU-Lottery/issues/16)|-|
+|15|[starlovec](https://github.com/starlovec)|[#17](https://github.com/bd4sur/P40-GPU-Lottery/issues/17)|-|
+|16|[siphonelee](https://github.com/siphonelee)|[#18](https://github.com/bd4sur/P40-GPU-Lottery/issues/18)|-|
+|17|[avarbykira](https://github.com/avarbykira)|[#19](https://github.com/bd4sur/P40-GPU-Lottery/issues/19)|-|
+|18|[kelvinyu](https://github.com/kelvinyu)|[#20](https://github.com/bd4sur/P40-GPU-Lottery/issues/20)|-|
+|19|[kafmws](https://github.com/kafmws)|[#21](https://github.com/bd4sur/P40-GPU-Lottery/issues/21)|-|
+|20|[Nitromethane](https://github.com/Nitromethane)|[#22](https://github.com/bd4sur/P40-GPU-Lottery/issues/22)|-|
+|21|[m5s2l1](https://github.com/m5s2l1)|[#23](https://github.com/bd4sur/P40-GPU-Lottery/issues/23)|-|
+|22|[yugithere](https://github.com/yugithere)|[#24](https://github.com/bd4sur/P40-GPU-Lottery/issues/24)|-|
+|23|[wldd01](https://github.com/wldd01)|[#25](https://github.com/bd4sur/P40-GPU-Lottery/issues/25)|-|
+|24|[imlonghao](https://github.com/imlonghao)|[#26](https://github.com/bd4sur/P40-GPU-Lottery/issues/26)|-|
 
 ## 1. 活动背景与奖品
 
