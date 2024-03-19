@@ -1,5 +1,11 @@
 # P40-GPU-Lottery
 
+**2024年3月19日公告：中奖者[kafmws](https://github.com/kafmws)已领奖，活动结束，感谢大家。**
+
+本仓库即日起进入存档状态。
+
+------
+
 BD4SUR的抽奖活动第二弹！报名参与抽奖活动之前，请务必通读本文。
 
 ![ ](girl-holding-tesla.png)
